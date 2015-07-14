@@ -1,0 +1,47 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "s,b,l",
+			"selector": "text.html"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"enable_tab_scrolling": true,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 22.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Git",
+		"FileSystem Autocompletion",
+		"MarkdownEditing"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_disable_fileicons": false,
+	"material_theme_disable_folder_animation": false,
+	"material_theme_small_tab": false,
+	"overlay_scroll_bars": "enabled",
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_normal": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}

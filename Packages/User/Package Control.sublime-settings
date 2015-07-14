@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"ExpressComplete",
+		"FileHeader",
+		"FileSystem Autocompletion",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeServer",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
