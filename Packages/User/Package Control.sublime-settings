@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AutoFileName",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
@@ -13,8 +14,8 @@
 		"Emmet",
 		"ExpressComplete",
 		"FileHeader",
-		"FileSystem Autocompletion",
 		"Git",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Jade",
 		"JavaScript & NodeJS Snippets",

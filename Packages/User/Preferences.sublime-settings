@@ -3,7 +3,7 @@
 	"auto_complete_triggers":
 	[
 		{
-			"characters": "s,l",
+			"characters": "s,b,l",
 			"selector": "text.html"
 		}
 	],
@@ -19,10 +19,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Git",
-		"FileSystem Autocompletion",
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
