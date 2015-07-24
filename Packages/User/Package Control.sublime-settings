@@ -9,6 +9,7 @@
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"Codecs33",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
@@ -17,6 +18,7 @@
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"Http Requester",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
 		"Markdown Preview",
@@ -26,6 +28,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeServer",
 		"Theme - Soda",
 		"Theme - Spacegray"
