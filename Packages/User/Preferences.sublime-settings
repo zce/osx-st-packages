@@ -8,6 +8,7 @@
 		}
 	],
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"enable_tab_scrolling": true,
 	"font_face": "Source Code Pro",
@@ -15,7 +16,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 23.0,
+	"font_size": 28.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -44,6 +45,7 @@
 	"spacegray_tabs_font_large": true,
 	"spacegray_tabs_normal": true,
 	"tab_size": 4,
+	"theme": "Default.sublime-theme",
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,

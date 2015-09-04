@@ -8,32 +8,9 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "load/save",
+		"lint_mode": "background",
 		"linters":
 		{
-			"csslint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"errors": "",
-				"excludes":
-				[
-				],
-				"ignore": "",
-				"warnings": ""
-			},
-			"htmltidy":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
 			"jshint":
 			{
 				"@disable": false,
@@ -45,7 +22,7 @@
 				]
 			}
 		},
-		"mark_style": "squiggly underline",
+		"mark_style": "outline",
 		"no_column_highlights_line": false,
 		"passive_warnings": false,
 		"paths":
