@@ -1,14 +1,19 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AngularJS",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
+		"Babel Snippets",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"ChineseLocalization",
 		"Codecs33",
 		"ConvertToUTF8",
 		"DocBlockr",
@@ -26,10 +31,17 @@
 		"Material Theme",
 		"Nodejs",
 		"Package Control",
+		"React ES6 Snippets",
+		"React Templates",
+		"react-native-snippets",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeServer",
+		"Terminal",
 		"Theme - Soda",
 		"Theme - Spacegray"
 	]
