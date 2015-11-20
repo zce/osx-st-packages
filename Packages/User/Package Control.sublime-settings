@@ -17,6 +17,7 @@
 		"Codecs33",
 		"ConvertToUTF8",
 		"DocBlockr",
+		"EJS",
 		"Emmet",
 		"ExpressComplete",
 		"FileHeader",
@@ -38,11 +39,12 @@
 		"ReactJS Snippets",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeServer",
 		"Terminal",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"WordpressDev",
+		"Xtemplate"
 	]
 }

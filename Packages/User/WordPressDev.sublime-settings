@@ -1,0 +1,4 @@
+{
+    //Path to where your wp-config.php file resides
+    "wp_config_file": "/Users/iceStone/Sites/wordpress/wp-config.php"
+}
