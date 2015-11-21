@@ -1,0 +1,7 @@
+{
+  "user": {
+    "lint_mode": "load/save",
+    "linters": {},
+    "mark_style": ""
+  }
+}
