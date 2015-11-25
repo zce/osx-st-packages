@@ -1,0 +1,30 @@
+[{
+  "id": "preferences",
+  "children": [{
+    "id": "package-settings",
+    "children": [{
+      "caption": "Email",
+      "children": [{
+        "caption": "Settings - User",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/Email.sublime-settings"
+        }
+      }, {
+        "caption": "-"
+      }, {
+        "caption": "Key Bindings - Default",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/SublimeEmail/Default.sublime-keymap"
+        }
+      }, {
+        "caption": "Key Bindings - User",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/Email.sublime-keymap"
+        }
+      }]
+    }]
+  }]
+}]

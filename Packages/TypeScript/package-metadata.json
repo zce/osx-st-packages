@@ -1,0 +1,1 @@
+{"url": "http://typescriptlang.org", "version": "0.1.10", "platforms": ["*"], "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins", "sublime_text": "*", "dependencies": []}

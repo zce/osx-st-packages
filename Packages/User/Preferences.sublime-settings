@@ -50,15 +50,21 @@
 	"font_options":
 	[
 	],
-	"font_size": 20.0,
+	"font_size": 21.0,
 	"gutter": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"AngularJS",
+		"Babel Snippets",
 		"Git",
 		"JavaScript",
 		"MarkdownEditing",
+		"React ES6 Snippets",
+		"React Templates",
+		"react-native-snippets",
+		"ReactJS",
+		"ReactJS Snippets",
 		"Vintage"
 	],
 	"indent_guide_options":

@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"AngularJS",
 		"AutoFileName",
@@ -16,18 +17,22 @@
 		"ChineseLocalization",
 		"Codecs33",
 		"ConvertToUTF8",
+		"DashDoc",
 		"DocBlockr",
 		"EditorConfig",
 		"EJS",
 		"Emmet",
+		"Emoji",
 		"ExpressComplete",
 		"FileHeader",
 		"Git",
 		"GitGutter",
+		"GithubEmoji",
 		"HTML-CSS-JS Prettify",
 		"Http Requester",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
+		"LiveStyle",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Material Theme",
@@ -50,6 +55,7 @@
 		"Terminal",
 		"Theme - Soda",
 		"Theme - Spacegray",
+		"TypeScript",
 		"WordpressDev",
 		"Xtemplate"
 	]
