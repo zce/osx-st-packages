@@ -1,0 +1,58 @@
+{
+  // Enable debug mode
+  "debug": false,
+
+  // Additional execution units
+  //    This will be merged with default execution units
+  //    See format in README.md file
+  "execution_units": {
+    "example_language_scope": {
+      "just_a_random_command": {
+        "name": "Random Command",
+        "description": "An example command",
+        "location": "$custom",
+        "command": "executable_to_run $file && clear",
+        "macros": {
+          "custom": [
+            "$parent",
+            "$project",
+            "$working"
+          ]
+        }
+      },
+      // This will remove "a_very_long_command" command
+      //    in the "example_language_scope" scope
+      "a_very_long_command": 0
+    },
+    // This will remove any previous commands for "a_very_long_language_scope"
+    "a_very_long_language_scope": 0
+  },
+
+  // Set to "false" to show menu if no command is available
+  "show_nothing_if_nothing": true,
+
+  // Set to "true" to run command if there is only one command available
+  "run_if_only_one_available": true,
+
+  // Amount of lines from bottom to snap into autoscrolling area
+  //    Increase this number if autoscroll is not working properly
+  "autoscroll_snap_range": 1,
+
+  // Always scroll view to bottom in output window
+  "autoscroll_to_bottom": true,
+
+  // Refresh rate for Terminal (in second)
+  //    Increase this value can helps output to print more smoothly but
+  //    it's also affect the system performances
+  "refresh_interval": 0.01,
+
+  // The encoding to handle input/output of the invoked process
+  //    Using the same format as str.encode() in Python 3 used
+  "encoding": "UTF-8",
+
+  // Error handler on output encoding
+  //    ignore = Remove all invalid encoding character
+  //    replace = Replace all invalid encoding character with "?" symbol
+  // Change this value without knowing what you're doing is not a good idea
+  "encoding_handle": "replace"
+}

@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+    <![CDATA[
+<meta name="viewport" content="width=${1:device-width}${2:, initial-scale=${3:1.0}}${4:, user-scalable=${5:no}}${6:, minimum-scale=${7:1.0}}${8:, maximum-scale=${9:1.0}}">${10}
+]]>
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>viewport</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.html</scope> -->
+</snippet>

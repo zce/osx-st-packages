@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		".jsbeautifyrc"
+		".jsbeautifyrc",
+		".babelrc"
 	]
 }

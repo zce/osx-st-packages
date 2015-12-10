@@ -1,0 +1,84 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>${1:Course} - Itcast</title>
+  <meta name="description" content="${1:Course}">
+  <meta name="keywords" content="${1:Course}">
+  <meta name="author" content="汪磊 (ice@wedn.net)">
+  <link rel="stylesheet" href="${2:reveal/}css/reveal.css">
+  <link rel="stylesheet" href="${2:reveal/}css/theme/${3:black}.css">
+  <link rel="stylesheet" href="${2:reveal/}lib/css/zenburn.css">
+  <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? '${2:reveal/}css/print/pdf.css' : '${2:reveal/}css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section>
+        <h2>${4:Hello World!}</h2>
+      </section>
+    </div>
+  </div>
+  <script src="${2:reveal/}lib/js/head.min.js"></script>
+  <script src="${2:reveal/}js/reveal.js"></script>
+  <script>
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+
+      // none/fade/slide/convex/concave/zoom
+      transition: 'slide',
+
+      // Optional reveal.js plugins
+      dependencies: [{
+        src: '${2:reveal/}lib/js/classList.js',
+        condition: function() {
+          return !document.body.classList;
+        }
+      }, {
+        src: '${2:reveal/}plugin/markdown/marked.js',
+        condition: function() {
+          return !!document.querySelector('[data-markdown]');
+        }
+      }, {
+        src: '${2:reveal/}plugin/markdown/markdown.js',
+        condition: function() {
+          return !!document.querySelector('[data-markdown]');
+        }
+      }, {
+        src: '${2:reveal/}plugin/highlight/highlight.js',
+        async: true,
+        callback: function() {
+          hljs.initHighlightingOnLoad();
+        }
+      }, {
+        src: '${2:reveal/}plugin/zoom-js/zoom.js',
+        async: true
+      }, {
+        src: '${2:reveal/}plugin/notes/notes.js',
+        async: true
+      }]
+    });
+  </script>
+</body>
+
+</html>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>reveal</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

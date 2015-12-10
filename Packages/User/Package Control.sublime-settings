@@ -16,6 +16,7 @@
 		"BracketHighlighter",
 		"ChineseLocalization",
 		"Codecs33",
+		"ColorPicker",
 		"ConvertToUTF8",
 		"DashDoc",
 		"DocBlockr",
@@ -32,6 +33,7 @@
 		"Http Requester",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
+		"LESS",
 		"LiveStyle",
 		"Markdown Preview",
 		"MarkdownEditing",
@@ -53,10 +55,11 @@
 		"SublimeLinter-jsxhint",
 		"SublimeServer",
 		"Terminal",
+		"Terminality",
 		"Theme - Soda",
 		"Theme - Spacegray",
+		"Tint",
 		"TypeScript",
-		"WordpressDev",
 		"Xtemplate"
 	]
 }
