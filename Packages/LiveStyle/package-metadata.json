@@ -1,0 +1,1 @@
+{"platforms": ["*"], "description": "LiveStyle plugin for Sublime Text", "dependencies": [], "url": "http://livestyle.io", "sublime_text": "*", "version": "2015.12.28.22.44.34"}

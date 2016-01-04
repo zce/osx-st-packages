@@ -55,6 +55,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"AngularJS",
+		"Babel",
 		"Babel Snippets",
 		"Bootstrap 3 Snippets",
 		"Git",
