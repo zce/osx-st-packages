@@ -14,7 +14,25 @@
 			"path": "/Users/iceStone/Sites/wordpress/wp-content/themes/options-framework"
 		},
 		{
+			"path": "/Users/iceStone/Sites/wordpress/wp-content/plugins/wedn"
+		},
+		{
+			"path": "/Users/iceStone/Sites/wordpress/wp-content/plugins/micua"
+		},
+		{
 			"path": "/Users/iceStone/Sites/wordpress"
+		},
+		{
+			"path": "/Users/iceStone/Sites/ghost"
+		},
+		{
+			"path": "/Users/iceStone/Downloads/Ghost-0.7.4-zh/content/themes/casper-zh"
+		},
+		{
+			"path": "/Users/iceStone/Downloads/Ghost-0.7.4-zh"
+		},
+		{
+			"path": "/Users/iceStone/Downloads/custom-post-type-ui"
 		},
 		{
 			"path": "/Users/iceStone/Downloads/2015-12-23"
@@ -26,6 +44,15 @@
 			"path": "/Users/iceStone/Documents/WorkSpace/Micua/home"
 		},
 		{
+			"path": "/Users/iceStone/Documents/WebStack"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Repositories/itcast-home"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Repositories/itcast-evaluation"
+		},
+		{
 			"path": "/Users/iceStone/Documents/Repositories/custom-post-type-ui"
 		},
 		{
@@ -35,10 +62,19 @@
 			"path": "/Users/iceStone/Documents/Learning/html5"
 		},
 		{
+			"path": "/Users/iceStone/Documents/Code/ghost"
+		},
+		{
 			"path": "/Users/iceStone/Desktop/wedn.vm"
 		},
 		{
+			"path": "/Users/iceStone/Desktop/wedn.net"
+		},
+		{
 			"path": "/Users/iceStone/Desktop/wedn"
+		},
+		{
+			"path": "/Users/iceStone/Desktop/demo"
 		},
 		{
 			"path": "/etc/apache2"
