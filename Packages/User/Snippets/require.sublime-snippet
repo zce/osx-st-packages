@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-var ${1:module} = require('${2:${1:module}}');${3}
+${1:const} ${2:module} = require('${3:${2:module}}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>require</tabTrigger>
