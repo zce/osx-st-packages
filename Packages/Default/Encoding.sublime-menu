@@ -1,6 +1,6 @@
 [
     {
-        "caption": "设置编码",
+        "caption": "Set Encoding",
         "children":
         [
             { "caption": "UTF-8", "command": "set_encoding", "args": {"encoding": "utf-8" } },
@@ -41,7 +41,7 @@
     },
 
     {
-        "caption": "指定编码方式打开",
+        "caption": "Reopen with Encoding",
         "children":
         [
             { "caption": "UTF-8", "command": "reopen", "args": {"encoding": "utf-8" } },

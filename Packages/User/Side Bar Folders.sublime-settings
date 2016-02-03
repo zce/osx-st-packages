@@ -2,6 +2,15 @@
 	"folders":
 	[
 		{
+			"path": "/Volumes/BOOTCAMP/Users/iceStone/Desktop/playground/webpack/webpack-tutorial"
+		},
+		{
+			"path": "/Volumes/BOOTCAMP/Users/iceStone/Desktop/angular/demo/angular-todomvc"
+		},
+		{
+			"path": "/Volumes/BOOTCAMP/Users/iceStone/Desktop/angular/demo/angular-moviecat"
+		},
+		{
 			"path": "/Users/iceStone/Sites/wp-themes/sage-8.4.0"
 		},
 		{
@@ -11,7 +20,13 @@
 			"path": "/Users/iceStone/Sites/web-stack"
 		},
 		{
+			"path": "/Users/iceStone/Sites/home"
+		},
+		{
 			"path": "/Users/iceStone/Sites/ghost/en"
+		},
+		{
+			"path": "/Users/iceStone/Sites/ghost-theme"
 		},
 		{
 			"path": "/Users/iceStone/Sites/ghost"
@@ -23,7 +38,13 @@
 			"path": "/Users/iceStone/Sites/blog"
 		},
 		{
+			"path": "/Users/iceStone/Downloads/pc566_twojian_v3_1_0"
+		},
+		{
 			"path": "/Users/iceStone/Downloads/AngularJS实战第二章第四节路由源代码"
+		},
+		{
+			"path": "/Users/iceStone/Downloads/AngularJS实战第二章第五节指令源代码/02-05/app"
 		},
 		{
 			"path": "/Users/iceStone/Documents/WorkSpace/Micua/home"
@@ -38,6 +59,12 @@
 			"path": "/Users/iceStone/Documents/Repositories/uno-zen"
 		},
 		{
+			"path": "/Users/iceStone/Documents/Repositories/todomvc/examples/angularjs"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Repositories/todomvc/examples"
+		},
+		{
 			"path": "/Users/iceStone/Documents/Repositories/itcast-home"
 		},
 		{
@@ -50,10 +77,37 @@
 			"path": "/Users/iceStone/Documents/Repositories/itcast-evaluation"
 		},
 		{
+			"path": "/Users/iceStone/Documents/Repositories/ghost-theme"
+		},
+		{
 			"path": "/Users/iceStone/Documents/Repositories/custom-post-type-ui"
 		},
 		{
+			"path": "/Users/iceStone/Documents/Learning/react-canvas/demo"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/popular-framework"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/angular/demo/moviecat"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/angular/demo/angular-todomvc"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/angular/demo/angular-seed"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/angular/demo/angular-phonecat"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Learning/angular/demo/angular-moviecat"
+		},
+		{
 			"path": "/Users/iceStone/Documents/Learning/angular"
+		},
+		{
+			"path": "/Users/iceStone/Documents/Code/node/ninghao_reptile"
 		},
 		{
 			"path": "/Users/iceStone/Documents/Code/ghost"
