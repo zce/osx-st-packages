@@ -1,5 +1,13 @@
 # changelog
 
+## 1.14.0
+
+ - Fixed iTerm2-v3 script navigation and window activation via @garyking in #133
+
+## 1.13.1
+
+ - Added `release.sh` for release automation
+
 ## 1.13.0
 
  - Added iTerm2-v3 support via @pzgz in #98

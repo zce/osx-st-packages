@@ -57,7 +57,7 @@
 	"draw_white_space": "selection",
 	"enable_hexadecimal_encoding": true,
 	"enable_tab_scrolling": true,
-	"ensure_newline_at_eof_on_save": false,
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": true,
 	"fallback_encoding": "Western (Windows 1252)",
 	"file_exclude_patterns":
@@ -96,7 +96,6 @@
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
-		"gray_antialias",
 		"subpixel_antialias"
 	],
 	"font_size": 20,
