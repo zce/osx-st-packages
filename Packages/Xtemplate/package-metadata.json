@@ -1,1 +1,1 @@
-{"url": "https://packagecontrol.io/packages/Xtemplate", "dependencies": [], "platforms": ["*"], "version": "1.2.7", "sublime_text": "*", "description": "Syntax highlighting & snippets for the Xtemplate"}
+{"dependencies": [], "description": "Syntax highlighting & snippets for the Xtemplate", "url": "https://packagecontrol.io/packages/Xtemplate", "version": "1.2.8", "platforms": ["*"], "sublime_text": "*"}
